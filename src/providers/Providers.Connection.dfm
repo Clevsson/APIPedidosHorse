@@ -9,7 +9,7 @@ object ProvidersConnection: TProvidersConnection
     Top = 48
   end
   object FDPhysPgDriverLink: TFDPhysPgDriverLink
-    VendorLib = 'C:\Users\Clevsson\Documents\GitHub\API Horse\lib\libpq.dll'
+    VendorLib = 'C:\Users\Clevsson\Documents\GitHub\APIPedidosHorse\lib\libpq.dll'
     Left = 32
     Top = 112
   end
